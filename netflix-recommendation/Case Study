@@ -1,0 +1,20 @@
+Netflix Recommendation Case Study
+
+Project Overview:
+This project builds a recommendation system that suggests the next Netflix series based on a user’s viewing history. Using a correlation matrix as the mathematical model, it identifies relationships between previously watched series to generate personalized recommendations.
+
+Data:
+The repository includes an Excel file containing processed user watch data used for analysis.
+
+Key Steps:
+
+Data cleaning and preprocessing to ensure accuracy
+
+Creation of a correlation matrix to identify patterns
+
+Visualization of relationships between series
+
+Deriving actionable insights for recommendations
+
+Objective:
+Demonstrate practical application of mathematical modeling and data analysis to deliver personalized content suggestions.
